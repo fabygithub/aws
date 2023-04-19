@@ -29,6 +29,42 @@ user = read = recommended
 
 https://emergingtalent.contentcontroller.com/ScormEngineInterface/dispatch/lti/ltiDispatch.html?studentId=e48dcd4f-46f3-49d9-a374-4a6229838600&studentName&redirectOnExitUrl=https%3A%2F%2Fawseducate.instructure.com%2Fcourses%2F890%2Fmodules&config=%7B%22dispatchVersion%22%3A%221%22%2C%22contentUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fbundle%2Fcontent%2F30444%2F7epd65vczevqNCDTXxkxLV3R4Acr%3Fltirolesecret%3D%26learnerid%3DLEARNER_ID%26fname%3DLEARNER_FNAME%26lname%3DLEARNER_LNAME%26pipeurl%3DPIPE_URL%26redirecturl%3DREDIRECT_URL_REGISTRATION_ARGUMENT%22%2C%22dispatchRoot%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2F%22%2C%22preLaunchConfigurationUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fconfig%2Fbundle%2Fcontent%2F30444%2F7epd65vczevqNCDTXxkxLV3R4Acr%22%7D&ltiOutcomeUrl=https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2FDispatchRequest.jsp%3FmethodName%3DAssignmentandGradeServices%26tenant%3D336d964b-be51-4a9a-9d42-50ac942f034e%26ltiOutcomeInfo%3D8d2e3648-63c7-46bb-a751-819b8bf0561d%26score%3D_SCORE_%26ltiState%3D_STATE_
 
+manager - direct reports
+
+identity and access management
+
+data access
+application access
+permission granted
+
+authentication
+autorization
+
+user 
+login
+database
+
+delete
+read
+modify
+
+aws data center
+perimeter layer
+environment layer
+data layer
+
+customer
+aws
+
+iam user
+iam application
+iam credential types
+multi factor authentication
+
+iam identity center
+https://emergingtalent.contentcontroller.com/ScormEngineInterface/dispatch/lti/ltiDispatch.html?studentId=e48dcd4f-46f3-49d9-a374-4a6229838600&studentName&redirectOnExitUrl=https%3A%2F%2Fawseducate.instructure.com%2Fcourses%2F890%2Fmodules&config=%7B%22dispatchVersion%22%3A%221%22%2C%22contentUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fbundle%2Fcontent%2F30444%2F7epd65vczevqNCDTXxkxLV3R4Acr%3Fltirolesecret%3D%26learnerid%3DLEARNER_ID%26fname%3DLEARNER_FNAME%26lname%3DLEARNER_LNAME%26pipeurl%3DPIPE_URL%26redirecturl%3DREDIRECT_URL_REGISTRATION_ARGUMENT%22%2C%22dispatchRoot%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2F%22%2C%22preLaunchConfigurationUrl%22%3A%22https%3A%2F%2Femergingtalent.contentcontroller.com%2Fapi%2Flaunch%2Fconfig%2Fbundle%2Fcontent%2F30444%2F7epd65vczevqNCDTXxkxLV3R4Acr%22%7D&ltiOutcomeUrl=https%3A%2F%2Femergingtalent.contentcontroller.com%2FScormEngineInterface%2Fdispatch%2FDispatchRequest.jsp%3FmethodName%3DAssignmentandGradeServices%26tenant%3D336d964b-be51-4a9a-9d42-50ac942f034e%26ltiOutcomeInfo%3D8d2e3648-63c7-46bb-a751-819b8bf0561d%26score%3D_SCORE_%26ltiState%3D_STATE_
+
+
 
 
 
